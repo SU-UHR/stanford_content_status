@@ -1,5 +1,5 @@
 #[Stanford Content Status](https://github.com/SU-SWS/stanford_content_status)
-##### Version: 7.x-2.0
+##### Version: 7.x-2.0-caw
 
 Maintainers: [jbickar](https://github.com/jbickar), [sherakama](https://github.com/sherakama)
 [Changelog.txt](CHANGELOG.txt)
